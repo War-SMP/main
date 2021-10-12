@@ -16,7 +16,7 @@
 .header-404{
     min-height: 50vh;
     width: 100%;
-    background-image: url("duckhost.cloud/img/error.gif");
+    background-image: url("https://duckhost.cloud/img/error.gif");
     background-position: center;
     background-size: cover;
     position: relative;
